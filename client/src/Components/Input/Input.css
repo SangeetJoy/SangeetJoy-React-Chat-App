@@ -1,0 +1,12 @@
+input{
+      width: 100%;
+      border-radius: 0;
+      border: 0.1px rgb(121, 121, 121) solid;
+}
+.input-container{
+    display: flex;
+}
+.button{
+    border-radius: 0;
+    width: 17%;
+}
